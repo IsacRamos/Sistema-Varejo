@@ -1,0 +1,97 @@
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS.mdf
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS_log.ldf
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+C:\Users\Isac Ramos\Desktop\lospollossystem\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS.mdf
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS_log.ldf
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+E:\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS.mdf
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS_log.ldf
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaVendas.resources
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.CadastroCliente.resources
+E:\Executaveis liberados\1° Zack Ramos\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Relatorios.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS.mdf
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS_log.ldf
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaVendas.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.CadastroCliente.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Relatorios.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login-master\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaVendas.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.CadastroCliente.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Relatorios.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS.mdf
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS_log.ldf
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaVendas.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.CadastroCliente.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Relatorios.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERO\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS.mdf
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\bin\Debug\POLLOS_log.ldf
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe.config
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\bin\Debug\LosPollosSystem.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csprojResolveAssemblyReference.cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaPrincipal.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.AreaVendas.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.CadastroCliente.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.login.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Properties.Resources.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.Relatorios.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.csproj.GenerateResource.Cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Varejo-e-ERP\programa\LosPollosSystem\LosPollosSystem\obj\Debug\LosPollosSystem.pdb

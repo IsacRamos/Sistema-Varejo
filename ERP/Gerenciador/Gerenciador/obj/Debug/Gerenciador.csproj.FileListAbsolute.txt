@@ -1,0 +1,11 @@
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\bin\Debug\Gerenciador.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.CadEstoque.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Principal.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.Cache
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.exe
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.pdb
+C:\Users\Isac Ramos\Desktop\Sistema-de-Login\ERP\Gerenciador\Gerenciador\obj\Debug\Gerenciador.VisEstoque.resources
