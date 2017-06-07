@@ -73,8 +73,9 @@ namespace LosPollosSystem
                 cmdInsertCli.ExecuteNonQuery();
 
                 //Diz que Cliente foi Cadastrado
-                MessageBox.Show("Cliente Cadastrado com Sucesso", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
+                    MessageBox.Show("Cliente Cadastrado com Sucesso", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+ 
                 //fecha conexão
                 sqlconn.Close();
 
@@ -121,7 +122,7 @@ namespace LosPollosSystem
             //VARIAVEIS RECEBEM:
             CPF = txtCPF.Text;
 
-            //FECHA CONEXAO
+            //ABRE CONEXAO
            sqlconn.Open();
 
             //CRIA COMANDO PARA CONSULTA
@@ -211,7 +212,7 @@ namespace LosPollosSystem
                 cmdInsertCli.ExecuteNonQuery();
 
                 //INFORMA QUE CLIENTE FOI DELETADO
-                MessageBox.Show("Cliente Deletado com Sucesso", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Cliente Deletado com Sucesso", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 //FECHA CONEXÃO
                 sqlconn.Close();
@@ -249,8 +250,10 @@ namespace LosPollosSystem
                 cmdInsertCli.ExecuteNonQuery();
 
                 //INFORMA QUE CLIENTE FOI ALTERADO
-                MessageBox.Show("Cliente Alterado com Sucesso", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                sqlconn.Close();
+
+                    MessageBox.Show("Cliente Alterado com Sucesso", "Cadastro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    sqlconn.Close();
 
             }
             else
